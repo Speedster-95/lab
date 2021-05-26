@@ -27,3 +27,5 @@ bosh_stemcell_url: https://bosh.io/d/stemcells/bosh-aws-xen-hvm-ubuntu-bionic-go
 bosh_instance_type: m3.medium
 
 # vi:et:sw=2 ts=2 sts=2 ft=ansible
+
+bosh_availability_zone: eu-west-2
