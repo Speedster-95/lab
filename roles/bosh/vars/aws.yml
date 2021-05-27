@@ -33,3 +33,7 @@ bosh_availability_zone: eu-west-2
 bosh_subnet_id: subnet-07ab6ee39a2e848b9
 
 bosh_elastic_ip: "18.169.11.64"
+
+bosh_access_key_id: AKIA6ONPWXEEBIIHP6HW
+
+bosh_secret_access_key: 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
